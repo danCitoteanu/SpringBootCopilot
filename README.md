@@ -1,2 +1,2 @@
 # SpringBootCopilot
-SpringBoot Demo usint Copilot
+SpringBoot Demo using Copilot
